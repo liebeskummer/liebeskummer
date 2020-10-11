@@ -15,7 +15,10 @@
   <img alt="riyuko Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://discord.gg/W5sf6XQ">
-  <img alt="riyuko Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img alt="riyuko discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://open.spotify.com/user/ujl3ikisepi6vu8biwklfblw7?si=kz2p00qcQRWYWTs3Q5b5Gg">
+  <img alt="riyuko spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
 
