@@ -1,3 +1,4 @@
+<div align="center">
 ## Welcome 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liebeskummer&label=Views&color=blue&style=plastic" alt="liebeskummer" /> </p>
@@ -40,7 +41,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liebeskummer&show_icons=true&theme=dark&line_height=27" alt="liebeskummer github stats"/>
 </a>
 
-<div align="center">
 
 ### Leave a follow!
 
