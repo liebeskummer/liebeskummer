@@ -2,7 +2,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=liebeskummer&label=Views&color=blue&style=plastic" alt="liebeskummer" /> </p>
 
-<a href="https://twitter.com/suicide_crime">
+<a href="https://twitter.com/riyuko1337">
   <img alt="riyuko Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/liebeskummer">
